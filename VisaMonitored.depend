@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1719675622 source:d:\learning\c++\visamonitored\main.cpp
+	<iostream>
+	<string>
+	<limits>
+	<sqlite3.h>
+	<iomanip>
+	<ctime>
+	<cstdlib>
+	<stdexcept>
+	<regex>
+	<iostream>
+	<string>
+	<limits>
+	<regex>
+
